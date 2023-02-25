@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="examples/src/main"/>
+	<classpathentry excluding="main/" kind="src" path="src"/>
+	<classpathentry kind="src" path="src/main"/>
+	<classpathentry kind="lib" path="dist/commons-beanutils.jar"/>
+	<classpathentry kind="lib" path="dist/commons-collections.jar"/>
+	<classpathentry kind="lib" path="dist/commons-digester.jar"/>
+	<classpathentry kind="lib" path="dist/commons-logging.jar"/>
+	<classpathentry kind="lib" path="dist/commons-pool.jar"/>
+	<classpathentry kind="lib" path="dist/metouia.jar"/>
+	<classpathentry kind="lib" path="dist/QSAdminGUI.jar"/>
+	<classpathentry kind="lib" path="dist/QuickServer.jar"/>
+	<classpathentry kind="lib" path="examples/dist/chatclient.jar"/>
+	<classpathentry kind="lib" path="examples/dist/chatserver.jar"/>
+	<classpathentry kind="lib" path="examples/dist/cmdserver.jar"/>
+	<classpathentry kind="lib" path="examples/dist/dateserver.jar"/>
+	<classpathentry kind="lib" path="examples/dist/echoserver.jar"/>
+	<classpathentry kind="lib" path="examples/dist/echowebserver.jar"/>
+	<classpathentry kind="lib" path="examples/dist/filesrv.jar"/>
+	<classpathentry kind="lib" path="examples/dist/ftpserver.jar"/>
+	<classpathentry kind="lib" path="examples/dist/pipeserver.jar"/>
+	<classpathentry kind="lib" path="examples/dist/xmladder.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/3"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
